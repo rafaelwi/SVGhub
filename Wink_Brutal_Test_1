@@ -1,9 +1,13 @@
 <!--
 Corner cases tested:
-  - circle with no cx/cy
+  - circle with no cx/cy 
+    * this is valid and cx/cy should default to 0
   - circle with r = 0
+    * this is valid and should function as normal
   - circle element spelled as CIRCLE
+    * this is valid and your parser should handle all letter cases
   - circle with r = -1
+    * this is an invalid circle. Just avoid memory leaks for A1
 -->
 
 <?xml version="1.0" standalone="no"?>
