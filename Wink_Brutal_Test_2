@@ -1,0 +1,14 @@
+<!--
+Corner case tested:
+  - empty href
+-->
+
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="20cm" height="16cm" viewBox="0 0 1200 600"
+     xmlns="" version="1.1">
+  <title>Example rect - simple revctange wiuth units</title>
+  <rect x="1cm" y="1cm" width="19cm" height="15cm"
+        fill="none" stroke="blue" stroke-width="1" />
+</svg>
