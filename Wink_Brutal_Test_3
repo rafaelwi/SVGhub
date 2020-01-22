@@ -29,3 +29,9 @@
       </g>
   </g>
 </svg>
+
+<!--
+Corner cases tested:
+- deeply nested groups and rectangles
+- empty group
+-->
