@@ -1,6 +1,7 @@
 <!--
 Corner case tested:
   - empty href
+    * this is an invalid SVGimage. createSVGimage should return NULL. Avoid memory leaks!
 -->
 
 <?xml version="1.0" standalone="no"?>
