@@ -1,7 +1,7 @@
 <!--
 Corner cases tested:
-- deeply nested groups and rectangles
-- empty group
+  - deeply nested groups and rectangles
+  - empty group
 -->
 
 <?xml version="1.0" standalone="no"?>
