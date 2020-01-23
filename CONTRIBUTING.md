@@ -10,7 +10,7 @@ Contributing to the repo is very easy.
 
 ## Making a good submission
 A good submission should have the following traits:
-1. An XML comment block at the beginning containing information on
+1. An XML comment block at the bottom of the file containing information on
     
       a. What your file is testing for
 
