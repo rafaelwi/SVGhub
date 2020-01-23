@@ -1,7 +1,9 @@
 <!--
 Corner cases tested:
   - deeply nested groups and rectangles
+    * your program should be able to handle all of the contents in these groups
   - empty group
+    * this is valid and should still be stored and printed by your SVGimage functions
 -->
 
 <?xml version="1.0" standalone="no"?>
