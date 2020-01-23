@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewbox="0 0 147.09 147.09"
+    xmlns="https://rafaels-epic-url-that-is-256-characters-long-with-the-null-terminator-at-the-end.com/this-is-to-test-and-make-sure-that-you-are-correctly-copying-a-very-long-namespace/this-image-also-has-a-happy-face-which-is-cool-i-guess/ok-now-we-are-at-255.dtd">
+    <title>Rafael's long namespace, title, and description test This intended purpose of this test is to see if your program can correctly handle an SVG file with a very long namespace, title, and description. But the catch is that the description is longer than 255</title>
+    <desc>characters. Did that scare you? It should have! that means that at least you are reading this, which is nice. Anywho while you're here reading and you've seen my github, maybe give me a follow or a start? :D  Anywho this is gonna go beyond 255 so see ya!!! Aahaha this is beyond the 255 characters, this shouldn't cause your parser issues, but if it does that means that your program is faiiing in one or more places.</desc>
+    <path id="path2294" rx="72.044655" ry="72.044655" style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-width:3;fill:yellow" type="arc" d="m320.75 332.9a72.045 72.045 0 1 1 -144.09 0 72.045 72.045 0 1 1 144.09 0z" cy="332.90256" cx="248.70209"/>
+    <path id="path2296" nodetypes="cc" style="stroke:#000000;stroke-width:4.7455;fill:none" d="m195.71 349c37.53 39.96 72.7 42.62 105 0"/>
+    <path id="path2298" rx="5.9214783" ry="5.9214783" style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-width:3;fill:#000000" type="arc" d="m226.99 307.24a5.9215 5.9215 0 1 1 -11.84 0 5.9215 5.9215 0 1 1 11.84 0z" cy="307.24283" cx="221.06853"/>
+    <path id="path2300" rx="5.9214783" ry="5.9214783" style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-width:3;fill:#000000" type="arc" d="m226.99 307.24a5.9215 5.9215 0 1 1 -11.84 0 5.9215 5.9215 0 1 1 11.84 0z" transform="translate(50)" cy="307.24283" cx="221.06853"/>
+</svg>
+
+<!--
+Cases tested: an image with a very long namespace, title and description
+
+Results: Namespace and title should appear normally. Description should be 
+         truncated after 255 characters. It also makes a happy face :)
+-->
