@@ -1,11 +1,3 @@
-<!--
-Corner cases tested:
-  - deeply nested groups and rectangles
-    * your program should be able to handle all of the contents in these groups
-  - empty group
-    * this is valid and should still be stored and printed by your SVGimage functions
--->
-
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
@@ -37,3 +29,11 @@ Corner cases tested:
       </g>
   </g>
 </svg>
+
+<!--
+Corner cases tested:
+  - deeply nested groups and rectangles
+    * your program should be able to handle all of the contents in these groups
+  - empty group
+    * this is valid and should still be stored and printed by your SVGimage functions
+-->
