@@ -25,30 +25,30 @@
                             fill="none" stroke="pink" stroke-width="6" />
                     <g>
                         <g>
-                            <rect x="3" y="3" width="3333" height="333"
-                                    fill="none" stroke="green" stroke-width="3" />
+                            <rect x="7" y="7" width="7777" height="777"
+                                    fill="none" stroke="green" stroke-width="7" />
                             <g>
-                                <rect x="4" y="4" width="4444" height="444"
-                                        fill="none" stroke="yellow" stroke-width="4" />
+                                <rect x="8" y="8" width="8888" height="888"
+                                        fill="none" stroke="yellow" stroke-width="8" />
                                 <g>
-                                    <rect x="5" y="5" width="5555" height="555"
-                                            fill="none" stroke="purple" stroke-width="5" />
+                                    <rect x="9" y="9" width="9999" height="999"
+                                            fill="none" stroke="purple" stroke-width="9" />
                                     <g>
-                                        <rect x="6" y="6" width="6666" height="666"
-                                                fill="none" stroke="pink" stroke-width="6" />
+                                        <rect x="10" y="10" width="1010" height="101"
+                                                fill="none" stroke="pink" stroke-width="10" />
                                         <g>
                                             <g>
-                                                <rect x="3" y="3" width="3333" height="333"
-                                                        fill="none" stroke="green" stroke-width="3" />
+                                                <rect x="11" y="11" width="11111111" height="111111"
+                                                        fill="none" stroke="green" stroke-width="11" />
                                                 <g>
-                                                    <rect x="4" y="4" width="4444" height="444"
-                                                            fill="none" stroke="yellow" stroke-width="4" />
+                                                    <rect x="12" y="12" width="12121212" height="121212"
+                                                            fill="none" stroke="yellow" stroke-width="12" />
                                                     <g>
-                                                        <rect x="5" y="5" width="5555" height="555"
-                                                                fill="none" stroke="purple" stroke-width="5" />
+                                                        <rect x="13" y="13" width="13131313" height="131313"
+                                                                fill="none" stroke="purple" stroke-width="13" />
                                                         <g>
-                                                            <rect x="6" y="6" width="6666" height="666"
-                                                                    fill="none" stroke="pink" stroke-width="6" />
+                                                            <rect x="14" y="14" width="14141414" height="141414"
+                                                                    fill="none" stroke="pink" stroke-width="14" />
                                                             <g></g>
                                                         </g>
                                                     </g>
