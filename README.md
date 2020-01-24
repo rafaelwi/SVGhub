@@ -1,5 +1,5 @@
 # SVGhub
-A place for sharing SVG flies for cis2750. Make a PR to share! 
+A place for sharing SVG files for cis2750. Make a PR to share! 
 
 ## How to contribute
 [Please read the contribution document.](CONTRIBUTING.md)
